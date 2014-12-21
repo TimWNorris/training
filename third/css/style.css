@@ -1,0 +1,45 @@
+body {
+	background: #dcdcdc;
+	font-family: "Helvetica";
+	padding: 0;
+	margin: 0;
+}
+
+h1 {
+	color: #ffffff;
+	float: left;
+	padding-left: 20px;
+	padding-top: 20px;
+}
+
+img {
+	float: left;
+	padding-bottom: 20px;
+}
+
+#container {
+	background: #3ccaed;
+	padding: 20px;
+	width: 480px;
+	position: absolute;
+	left: 50%;
+	margin-left: -270px;
+}
+
+#whitebox {
+	padding: 20px;
+	background: #ffffff;
+	clear: both;
+}
+
+.websites {
+	background: #f1f1f1;
+	color: #a4a1a1;
+	padding: 20px;
+	margin-bottom: 20px;
+	font-size: 20px;
+}
+
+#last {
+	margin-bottom: 0px;
+}

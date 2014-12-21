@@ -1,0 +1,9 @@
+#position { 
+	background: green; 
+	position: absolute;
+	top: 100px;
+	left: 50%;
+	opacity: .5;
+	width: 300px;
+	margin-left: -150px;
+}
